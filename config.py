@@ -1,0 +1,5 @@
+SQL_USERNAME = "postgres"
+SQL_PASSWORD = "group5"
+SQL_IP = "35.226.24.243"
+PORT = "5432"
+DATABASE = "postgres"
