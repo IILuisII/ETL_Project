@@ -6,7 +6,7 @@ The purpose of this project is to Extract information from three main news websi
 data into a structured data frame (with categorizations), and Load this data frame into a SQL data base, to be able to
 retrieve the latest news from our tree main websites on one single table.
 
-<img src="DB%20Strucute.PNG" width="250">
+<img src="DB%20Strucute.PNG" width="300">
 
 ## Extract:
 
